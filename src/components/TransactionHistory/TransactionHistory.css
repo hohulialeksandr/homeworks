@@ -1,0 +1,18 @@
+.transaction_history {
+    width: 90%;
+    table-layout: fixed;
+    box-shadow: 0px 10px 20px 0px #e0c6f5;
+    border-radius: 5px;
+}
+
+thead {
+    background: blue;
+}
+
+th {
+    padding: 10px 30px;
+}
+
+tbody {
+    background: white;
+}
